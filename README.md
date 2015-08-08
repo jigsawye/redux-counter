@@ -14,4 +14,4 @@ start the server.
 npm start
 ```
 
-reference: [](https://github.com/gaearon/redux/tree/master/examples/counter)
+reference: https://github.com/gaearon/redux/tree/master/examples/counter
