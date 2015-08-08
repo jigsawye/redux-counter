@@ -14,4 +14,10 @@ start the server.
 npm start
 ```
 
-reference: https://github.com/gaearon/redux/tree/master/examples/counter
+##Build
+```
+npm run build
+```
+
+##Reference
+https://github.com/gaearon/redux/tree/master/examples/counter
